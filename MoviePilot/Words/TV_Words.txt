@@ -2,3 +2,6 @@
 An AllConsuming Love => 长相思{[tmdbid=210524;type=tv]}
 # 边水往事
 Escape from the Trilateral Slopes => 边水往事{[tmdbid=252636;type=tv]}
+#斗破苍穹
+斗破苍穹.年番 => 斗破苍穹{[tmdbid=79481;type=tv;s=05]}
+斗破苍穹年番 => 斗破苍穹{[tmdbid=79481;type=tv;s=05]}
