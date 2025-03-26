@@ -8,3 +8,5 @@ Three-Body(.*)Anniversary(.*)Edition => 三体·周年纪念版{[tmdbid=270728;t
 # 庆余年
 \[庆余年(.*)特别版\] => 庆余年特别版{[tmdbid=254285;type=tv]}
 Joy(.*)of(.*)Life(.*)Special(.*)Edition => 庆余年特别版{[tmdbid=254285;type=tv]}
+# 莲花楼
+Mysterious(.*)Lotus(.*)Casebook => 莲花楼{[tmdbid=230835;type=tv]}
