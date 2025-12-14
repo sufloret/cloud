@@ -6,7 +6,6 @@ Escape(.*)from(.*)the(.*)Trilateral(.*)Slopes => 边水往事{[tmdbid=252636;typ
 三体(.*)周年纪念版 => 三体·周年纪念版{[tmdbid=270728;type=tv]}
 Three-Body(.*)Anniversary(.*)Edition => 三体·周年纪念版{[tmdbid=270728;type=tv]}
 # 庆余年
-庆余年(.*)特别版(.*)S01 => 庆余年{[tmdbid=95842;type=tv;s=00;]}
 \[庆余年(.*)特别版\](.*)S01 => 庆余年{[tmdbid=95842;type=tv;s=00]}
 Joy(.*)of(.*)Life(.*)Special(.*)Edition(.*)S01 => 庆余年{[tmdbid=95842;type=tv;s=00]}
 # 莲花楼
