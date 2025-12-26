@@ -4,6 +4,6 @@ SP => S00
 斗破苍穹(.*)年番 => 斗破苍穹{[tmdbid=79481;type=tv;s=05]}
 # 诛仙
 ^(.*)Jade(.*)Dynasty(?=.*QHstudIo) => 诛仙{[tmdbid=206484;type=tv]}
-诛仙(.*)第一季 => 诛仙.S01{[tmdbid=206484;type=tv]}
-诛仙(.*)第二季 => 诛仙.S02{[tmdbid=206484;type=tv]}
-诛仙(.*)第三季 => 诛仙.S03{[tmdbid=206484;type=tv]}
+\[诛仙(.*)第一季\] => 诛仙.S01{[tmdbid=206484;type=tv]}
+\[诛仙(.*)第二季\] => 诛仙.S02{[tmdbid=206484;type=tv]}
+\[诛仙(.*)第三季\] => 诛仙.S03{[tmdbid=206484;type=tv]}
