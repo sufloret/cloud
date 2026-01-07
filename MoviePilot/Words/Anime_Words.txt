@@ -8,4 +8,4 @@ SP => S00
 \[诛仙(.*)第二季\] => 诛仙.S02{[tmdbid=206484;type=tv]}
 \[诛仙(.*)第三季\] => 诛仙.S03{[tmdbid=206484;type=tv]}
 # 仙剑奇侠传叁
-^仙剑奇侠传三(.*)Sword(.*)and(.*)Fairy(.*)3(?=.*ADWeb) => 仙剑奇侠传叁{[tmdbid=233295;type=tv]}
+仙剑奇侠传三(?=.*ADWeb) => 仙剑奇侠传叁{[tmdbid=233295;type=tv]}
